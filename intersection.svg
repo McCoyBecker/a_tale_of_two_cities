@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="intersection.svg"
+   inkscape:version="1.0rc1 (ad4748034b, 2020-04-12)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm">
+  <defs
+     id="defs2">
+    <rect
+       id="rect2841"
+       height="15.318982"
+       width="47.403022"
+       y="78.306278"
+       x="149.9017" />
+    <rect
+       id="rect2829"
+       height="13.770097"
+       width="45.586942"
+       y="66.09576"
+       x="32.678422" />
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient2795">
+      <stop
+         id="stop2793"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient2761">
+      <stop
+         id="stop2759"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <rect
+       x="32.678422"
+       y="66.09576"
+       width="45.586942"
+       height="13.770097"
+       id="rect2837" />
+    <rect
+       x="149.9017"
+       y="78.306278"
+       width="47.403022"
+       height="15.318982"
+       id="rect2849" />
+    <rect
+       id="rect2855"
+       height="15.318982"
+       width="47.403022"
+       y="78.306278"
+       x="149.9017" />
+    <rect
+       x="149.9017"
+       y="78.306278"
+       width="47.403022"
+       height="15.318982"
+       id="rect2861" />
+    <rect
+       id="rect2867"
+       height="15.318982"
+       width="47.403022"
+       y="78.306278"
+       x="149.9017" />
+    <rect
+       x="149.9017"
+       y="78.306278"
+       width="47.403022"
+       height="15.318982"
+       id="rect2873" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="27"
+     inkscape:window-x="0"
+     inkscape:window-height="1016"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="564.28571"
+     inkscape:cx="174.28571"
+     inkscape:zoom="0.7"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#008080;stroke-width:0.8;stroke-opacity:0.89019608;opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       r="45.293427"
+       cy="128.8596"
+       cx="57.158058"
+       id="path10" />
+    <ellipse
+       style="fill:#f2f2f2;stroke-width:0.8;opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       ry="1.1836383"
+       rx="0.015064602"
+       cy="101.71699"
+       cx="58.514076"
+       id="path12" />
+    <circle
+       id="circle14"
+       cx="104.96542"
+       cy="128.75471"
+       r="45.293427"
+       style="fill:none;stroke:#008080;stroke-width:0.8;stroke-opacity:0.48627451;opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       id="text2801"
+       y="113.53365"
+       x="65.472809"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'FantasqueSansMono Nerd Font';-inkscape-font-specification:'FantasqueSansMono Nerd Font';letter-spacing:0px;word-spacing:0px;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.8;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'FantasqueSansMono Nerd Font';-inkscape-font-specification:'FantasqueSansMono Nerd Font';fill:#f2f2f2;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;"
+         y="113.53365"
+         x="65.472809"
+         id="tspan2799"
+         sodipodi:role="line">Learn-then-infer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'FantasqueSansMono Nerd Font';-inkscape-font-specification:'FantasqueSansMono Nerd Font';letter-spacing:0px;word-spacing:0px;inline-size:41.3957;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.8;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+       x="64.642525"
+       y="120.26907"
+       id="text2805"><tspan
+         sodipodi:role="line"
+         x="64.642525"
+         y="120.26907"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'FantasqueSansMono Nerd Font';-inkscape-font-specification:'FantasqueSansMono Nerd Font';fill:#f2f2f2;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none">Automatic Bayesian </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="64.642525"
+         y="125.11978"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'FantasqueSansMono Nerd Font';-inkscape-font-specification:'FantasqueSansMono Nerd Font';fill:#f2f2f2;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none">program synthesis</tspan></tspan></text>
+    <text
+       id="text2809"
+       y="143.80161"
+       x="88.41861"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.8;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+       xml:space="preserve"><tspan
+         style="fill:#f2f2f2;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;"
+         y="143.80161"
+         x="88.41861"
+         id="tspan2807"
+         sodipodi:role="line"></tspan></text>
+    <text
+       id="text2817"
+       y="131.23212"
+       x="65.148514"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'FantasqueSansMono Nerd Font';-inkscape-font-specification:'FantasqueSansMono Nerd Font';letter-spacing:0px;word-spacing:0px;inline-size:41.3957;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.8;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         x="65.148514"
+         y="131.23212"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'FantasqueSansMono Nerd Font';-inkscape-font-specification:'FantasqueSansMono Nerd Font';fill:#f2f2f2;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none">Deep generative </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="65.148514"
+         y="136.08281"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'FantasqueSansMono Nerd Font';-inkscape-font-specification:'FantasqueSansMono Nerd Font';fill:#f2f2f2;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none">modeling</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'FantasqueSansMono Nerd Font';-inkscape-font-specification:'FantasqueSansMono Nerd Font';letter-spacing:0px;word-spacing:0px;inline-size:28.6739;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.8;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+       x="66.565163"
+       y="141.44878"
+       id="text2825"><tspan
+         sodipodi:role="line"
+         x="66.565163"
+         y="141.44878"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'FantasqueSansMono Nerd Font';-inkscape-font-specification:'FantasqueSansMono Nerd Font';fill:#f2f2f2;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none">Long lived </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="66.565163"
+         y="146.29947"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'FantasqueSansMono Nerd Font';-inkscape-font-specification:'FantasqueSansMono Nerd Font';fill:#f2f2f2;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none">programs</tspan></tspan></text>
+    <text
+       transform="translate(5.9780404,4.1096029)"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2829);fill:#f2f2f2;fill-opacity:1;stroke:none;opacity:1;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;"
+       id="text2827"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         x="32.677734"
+         y="69.841208"><tspan>Probabilistic </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="32.677734"
+         y="75.132872"><tspan>programming</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text2835"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2837);fill:#f2f2f2;fill-opacity:1;stroke:none;opacity:1;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;"
+       transform="translate(64.59524,7.2438478)"><tspan
+         sodipodi:role="line"
+         x="32.677734"
+         y="69.841208"><tspan>Deep learning</tspan></tspan></text>
+    <text
+       transform="translate(-51.119896,17.073882)"
+       style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2841);fill:#f2f2f2;fill-opacity:1;stroke:none;opacity:1;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;"
+       id="text2839"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         x="149.90234"
+         y="82.364273"><tspan>Convnets</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text2847"
+       style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2849);fill:#f2f2f2;fill-opacity:1;stroke:none;opacity:1;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;"
+       transform="translate(-40.911955,35.835507)"><tspan
+         sodipodi:role="line"
+         x="149.90234"
+         y="82.364273"><tspan>Resnets</tspan></tspan></text>
+    <text
+       transform="translate(-38.48524,53.567133)"
+       style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2867);fill:#f2f2f2;fill-opacity:1;stroke:none;opacity:1;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;"
+       id="text2865"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         x="149.90234"
+         y="82.364273"><tspan>GANs</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text2871"
+       style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2873);fill:#f2f2f2;fill-opacity:1;stroke:none;opacity:1;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;"
+       transform="translate(-51.598157,69.931536)"><tspan
+         sodipodi:role="line"
+         x="149.90234"
+         y="82.364273"><tspan>Recurrent networks</tspan></tspan></text>
+    <text
+       id="text2877"
+       y="100.47129"
+       x="25.05545"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;inline-size:42.0907;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.8;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         x="25.05545"
+         y="100.47129"><tspan
+           style="fill:#f2f2f2;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none">Classical statistical </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="25.05545"
+         y="105.76295"><tspan
+           style="fill:#f2f2f2;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none">inference</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;inline-size:42.0907;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.8;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+       x="17.388329"
+       y="112.43691"
+       id="text2881"><tspan
+         sodipodi:role="line"
+         x="17.388329"
+         y="112.43691"><tspan
+           style="fill:#f2f2f2;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none">Graphical models</tspan></tspan></text>
+    <text
+       id="text2885"
+       y="120.90097"
+       x="16.889582"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;inline-size:42.0907;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.8;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         x="16.889582"
+         y="120.90097"><tspan
+           style="fill:#f2f2f2;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none">Probabilistic </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="16.889582"
+         y="126.19263"><tspan
+           style="fill:#f2f2f2;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none">context-free </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="16.889582"
+         y="131.4843"><tspan
+           style="fill:#f2f2f2;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none">grammars</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;inline-size:42.0907;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.8;opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+       x="20.856279"
+       y="140.2771"
+       id="text2889"><tspan
+         sodipodi:role="line"
+         x="20.856279"
+         y="140.2771"><tspan
+           style="fill:#f2f2f2;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none">Bayesian non-</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="20.856279"
+         y="145.56876"><tspan
+           style="fill:#f2f2f2;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none">parametrics</tspan></tspan></text>
+  </g>
+</svg>
