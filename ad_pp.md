@@ -273,7 +273,7 @@ Key insight to understanding: running this program samples from a distribution o
     counter = 0
     # :x => counter is addr
     while @trace(normal(0.0, 1.0),
-                 :x => counter) < 3.0
+                 :x => counter) < 1.0
         push!(res, 5)
         counter += 1
     end
