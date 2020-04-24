@@ -384,7 +384,7 @@ What about AD and probabilistic programming all in one?
 \item Design space:
 \begin{enumerate}
 \item Use trace based for everything? Poor performance on complex architectures. Think: pure interpreter approach.
-\item Source-to-source? No existing source-to-source PPL package - is this even useful (Jaynes)?
+\item Source-to-source? No existing source-to-source PPL package which is ``universal" - initial work done on "density compilers" (see $\textit{Hakaru}$). Ongoing work on $\textit{Jaynes}$.
 \end{enumerate}
 \end{itemize}
 
